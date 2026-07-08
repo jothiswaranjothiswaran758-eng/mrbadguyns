@@ -1,0 +1,6 @@
+{
+  "name": "Creative Workspace Portal",
+  "description": "An interactive digital workspace, project showcase, and creative playground featuring focus tools, canvas sketching, and snippet styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
